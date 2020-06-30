@@ -149,7 +149,7 @@ height: 28px;
 left: 50%;
 transform: translateX(-50%);
 top: 18%;
-width: 137px;
+width: 178px;
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
@@ -234,8 +234,8 @@ color: #FFFFFF;
     margin-left: -5px
   }
   .item-text p{
-    font-size: 4vw;
-    line-height: 4vw;
+    font-size: 2.5vw;
+    line-height: 3vw;
     font-weight: normal
   }
 }
