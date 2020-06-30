@@ -153,7 +153,7 @@ width: 137px;
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
-font-size: 12.5px;
+font-size: 12px;
 /* identical to box height, or 560% */
 
 
@@ -177,10 +177,10 @@ color: #FFFFFF;
   }
 .item-text{
     position: absolute;
-    top: 60%;
+    top: 55%;
     left:50%;
     color:white;
-    font-size:6vw;
+    font-size:4vw;
     transform: translateX(-50%);
     font-weight: bolder
 }
@@ -240,7 +240,7 @@ color: #FFFFFF;
   }
 }
 @media only screen  and (min-width:600px){
-  @media only screen  and (max-width:760px){
+  @media only screen  and (max-width:700px){
     .item-text p{
     font-size: 4.5vw;
     line-height: 4vw;
